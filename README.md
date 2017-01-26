@@ -12,7 +12,8 @@
     - [Rest Api](#rest-api)
     - [Messenger Bot](#messenger-bot)
     - [Rango App](#rango-app)
-- **[Django And Me](#django-and-me)**    
+
+> **[Django And Me](#django-and-me)**    
     
 ## Flask
 - **Projects**
@@ -20,6 +21,7 @@
 - **Miscellaneous**
     - [Github Search](#github-search)
     
+
 ## [Fosslnmiit](https://github.com/fosslnmiit/fosslnmiit-website)
    * [Live Website](http://fosslnmiit.xyz)
    * Features
@@ -90,3 +92,23 @@
    * [Django Allauth](https://readthedocs.org/projects/django-allauth/)
    * [Django Tinymce](https://django-tinymce.readthedocs.io/en/latest/)
    * [Django Haystack](http://django-haystack.readthedocs.io/en/latest/index.html)
+
+
+## [MedQA](https://github.com/MedQA/medqa)
+  * Stuff Used 
+   - [Heroku](https://www.heroku.com/)
+   - [Travis CI](https://travis-ci.org/)
+  * Flask Extensions Used
+   - Flask-Login
+   - Flask-Mail
+   - Flask-Script
+   - Flask-SQLAlchemy
+   - Flask-WTF
+   
+## [Github Search](https://github.com/sagaragarwal94/github-search/tree/redis)
+   * Github Api's
+   * Python Requests Library
+   * Heroku
+   * Travis CI
+   
+   
