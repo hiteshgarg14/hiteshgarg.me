@@ -13,7 +13,6 @@
     - [Messenger Bot](#messenger-bot)
     - [Rango App](#rango-app)
 
-> **[Django And Me](#django-and-me)**    
     
 ## Flask
 - **Projects**
@@ -60,18 +59,18 @@
 ## [Blog Application](https://github.com/hiteshgarg14/Django-Blog-Application)
    * **Search Engine** with **[Solr](http://lucene.apache.org/solr/)** and **[Haystack](http://haystacksearch.org/)**
    * Sitemap of website using
-    - django.contrib.sites
-    - django.contrib.sitemaps
+     - django.contrib.sites
+     - django.contrib.sitemaps
    * RSS Feed for blog posts using built-in 
-    - Syndication feed framework
+     - Syndication feed framework
    * Tagging functionality using **[Django Taggit](https://django-taggit.readthedocs.io/en/latest/)**
    * Retrieving posts by similarity (common tags, published date etc.)
    * Templatetags 
-    - Simple tags
-    - Inclusion tags 
-    - Assignment tags
+     - Simple tags
+     - Inclusion tags 
+     - Assignment tags
    * Custom template filters
-    - Markdown
+     - Markdown
    * Sharing posts by email
    * Comment system 
    * Custom Model Managers
@@ -85,13 +84,6 @@
    
 ## [Rango App](https://github.com/hiteshgarg14/RangoApp)
    * Implementation of Tango With Django [Book](http://www.tangowithdjango.com/)
-
-## Django And Me
-   * [Django Rest Framework](www.django-rest-framework.org/)
-   * [Django Taggit](https://django-taggit.readthedocs.io/en/latest/)
-   * [Django Allauth](https://readthedocs.org/projects/django-allauth/)
-   * [Django Tinymce](https://django-tinymce.readthedocs.io/en/latest/)
-   * [Django Haystack](http://django-haystack.readthedocs.io/en/latest/index.html)
 
 
 ## [MedQA](https://github.com/MedQA/medqa)
