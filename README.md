@@ -25,16 +25,16 @@
 ## [Fosslnmiit](https://github.com/fosslnmiit/fosslnmiit-website)
    * [Live Website](http://fosslnmiit.xyz)
    * Features
-    - Hosted on [AWS](https://aws.amazon.com/)
-    - Custom User Authentication
+     - Hosted on [AWS](https://aws.amazon.com/)
+     - Custom User Authentication
      - Signup via Email
      - Login 
      - Logout
      - Change Password
      - Reset Password
      - Forgot Password
-    - Extending User Model For Custom **User Profile**
-    - Make Profile Public Facility 
+     - Extending User Model For Custom **User Profile**
+     - Make Profile Public Facility 
 
 ## SOS
    * Social Authentication using **[Django Allauth](https://readthedocs.org/projects/django-allauth/)**
@@ -43,19 +43,19 @@
 
 ## [Social Website](https://github.com/hiteshgarg14/Django-Social-Website)
    * [Django Authentication Framework](https://docs.djangoproject.com/en/1.10/topics/auth/)
-    - Signup
-    - Login 
-    - Logout
-    - Change Password
-    - Reset Password
-    - Forgot Password
+     - Signup
+     - Login 
+     - Logout
+     - Change Password
+     - Reset Password
+     - Forgot Password
    * Extending User Model For Custom **User Profile**
    * [Django Message Framework](https://docs.djangoproject.com/en/1.10/ref/contrib/messages/)
    * Custom Email Authentication Backend
    * Social Authentication using **[Python Social Auth](https://github.com/omab/python-social-auth)**
-    - Facebook
-    - Twitter
-    - Google
+     - Facebook
+     - Twitter
+     - Google
     
 ## [Blog Application](https://github.com/hiteshgarg14/Django-Blog-Application)
    * **Search Engine** with **[Solr](http://lucene.apache.org/solr/)** and **[Haystack](http://haystacksearch.org/)**
@@ -96,14 +96,14 @@
 
 ## [MedQA](https://github.com/MedQA/medqa)
   * Stuff Used 
-   - [Heroku](https://www.heroku.com/)
-   - [Travis CI](https://travis-ci.org/)
+    - [Heroku](https://www.heroku.com/)
+    - [Travis CI](https://travis-ci.org/)
   * Flask Extensions Used
-   - Flask-Login
-   - Flask-Mail
-   - Flask-Script
-   - Flask-SQLAlchemy
-   - Flask-WTF
+    - Flask-Login
+    - Flask-Mail
+    - Flask-Script
+    - Flask-SQLAlchemy
+    - Flask-WTF
    
 ## [Github Search](https://github.com/sagaragarwal94/github-search/tree/redis)
    * Github Api's
