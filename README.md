@@ -1,3 +1,47 @@
+## Hitesh Garg
+- Freelancer | Expert Mentor at [Codementor](https://www.codementor.io/hiteshgarg14)
+- I like to explore new things in a practical way and have great interest in Web Application. I focus on identifying
+  use cases in diverse aspects of life and put my efforts to solve them using technology. A Strong believer of
+  Open-Source.
+- garg95hitesh@gmail.com
+
+> Available For Freelance Work
+
+> Looking For Summer Internship (2017) As Backend Developer
+
+## Technical Skills
+- [Languages and Technologies](#languages-and-technologies)
+- [Database Platforms](#database-platforms)
+- [Web Frameworks](#web-frameworks)
+- [Cloud Platforms](#cloud-platforms)
+- [Virtualisation](#virtualisation)
+- [Open Source Contributions](#open-source-contributions)
+
+## Languages and Technologies
+- Python
+- C
+- Bootstrap
+- Google Materialize
+- JavaScript/Jquery
+- Ajax
+
+## Cloud Platforms
+- AWS
+- Heroku
+- Bluemix
+
+## Virtualisation
+- Docker
+- Vagrant
+
+## Database Platforms
+- PostgreSQL
+- MySQL
+- Redis
+
+## Open Source Contributions
+- [Openstates](https://github.com/openstates/openstates)
+
 ## Web Frameworks
 - [Django](#django)
 - [Flask](#flask)
@@ -9,7 +53,7 @@
 - **Miscellaneous**
     - [Social Website](#social-website)
     - [Blog Application](#blog-application)
-    - [Rest Api](#rest-api)
+    - [Rest API](#rest-api)
     - [Messenger Bot](#messenger-bot)
     - [Rango App](#rango-app)
 
@@ -27,11 +71,8 @@
      - Hosted on [AWS](https://aws.amazon.com/)
      - Custom User Authentication
      - Signup via Email
-     - Login 
-     - Logout
-     - Change Password
-     - Reset Password
-     - Forgot Password
+     - Login, Logout 
+     - Change, Reset, Forgot Password
      - Extending User Model For Custom **User Profile**
      - Make Profile Public Facility 
 
@@ -43,11 +84,8 @@
 ## [Social Website](https://github.com/hiteshgarg14/Django-Social-Website)
    * [Django Authentication Framework](https://docs.djangoproject.com/en/1.10/topics/auth/)
      - Signup
-     - Login 
-     - Logout
-     - Change Password
-     - Reset Password
-     - Forgot Password
+     - Login, Logout 
+     - Change, Reset, Forgot Password
    * Extending User Model For Custom **User Profile**
    * [Django Message Framework](https://docs.djangoproject.com/en/1.10/ref/contrib/messages/)
    * Custom Email Authentication Backend
