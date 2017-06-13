@@ -1,13 +1,11 @@
 ## Hitesh Garg
+- [Google Summer of Code 2017](https://summerofcode.withgoogle.com/projects/#6265883499429888) Student Contributor [@openstates](github.com/openstates/openstates)
 - Freelancer | Expert Mentor at [Codementor](https://www.codementor.io/hiteshgarg14)
 - I like to explore new things in a practical way and have great interest in Web Application. I focus on identifying
   use cases in diverse aspects of life and put my efforts to solve them using technology. A Strong believer of
   Open-Source.
 - garg95hitesh@gmail.com
 
-> Available For Freelance Work
-
-> Looking For Summer Internship (2017) As Backend Developer
 
 ## Technical Skills
 - [Languages and Technologies](#languages-and-technologies)
@@ -16,6 +14,7 @@
 - [Cloud Platforms](#cloud-platforms)
 - [Virtualisation](#virtualisation)
 - [Open Source Contributions](#open-source-contributions)
+- [Other Stuff](#other-stuff)
 
 ## Languages and Technologies
 - Python
@@ -41,6 +40,15 @@
 
 ## Open Source Contributions
 - [Openstates](https://github.com/openstates/openstates)
+- [Spotify Playlist Downloader](https://github.com/hiteshgarg14/spotify-playlist-downloader)
+
+## Other Stuff
+- Python Packages Explored
+     - [lxml](https://pypi.python.org/pypi/lxml)
+     - [Pupa](https://pypi.python.org/pypi/pupa)
+     - [Billy](https://pypi.python.org/pypi/billy/1.9.0)
+     - [Open Civic Data](https://pypi.python.org/pypi/opencivicdata)
+     - [Scrapelib](https://pypi.python.org/pypi/scrapelib)
 
 ## Web Frameworks
 - [Django](#django)
@@ -48,6 +56,7 @@
 
 ## Django
 - **Projects**
+    - [Admintools](https://github.com/openstates/admintools)
     - [Fosslnmiit](#fosslnmiit)
     - [SOS](#sos)
 - **Miscellaneous**
